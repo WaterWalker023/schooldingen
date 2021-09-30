@@ -1,0 +1,1 @@
+dit zijn de dingen die ik voor school doe
