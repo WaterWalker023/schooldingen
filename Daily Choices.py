@@ -1,5 +1,5 @@
 while True:
-    cho = input("vraag 1")
+    cho = input("vraag 1 ")
     if cho == "1":
         print("andwoord 1")
         break
@@ -10,7 +10,7 @@ while True:
         print("1 of 2")
 
 while True:
-    cho = input("vraag 2")
+    cho = input("vraag 2 ")
     if cho == "1":
         print("andwoord 1")
         break
@@ -21,7 +21,7 @@ while True:
         print("1 of 2")
 
 while True:
-    cho = input("vraag 3")
+    cho = input("vraag 3 ")
     if cho == "1":
         print("andwoord 1")
         break
@@ -32,7 +32,7 @@ while True:
         print("1 of 2")
 
 while True:
-    cho = input("vraag 4")
+    cho = input("vraag 4 ")
     if cho == "1":
         print("andwoord 1")
         break
@@ -43,7 +43,7 @@ while True:
         print("1 of 2")
 
 while True:
-    cho = input("vraag 5")
+    cho = input("vraag 5 ")
     if cho == "1":
         print("andwoord 1")
         break
