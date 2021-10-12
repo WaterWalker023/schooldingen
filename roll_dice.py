@@ -9,3 +9,4 @@ while True:
     roll_dice()
     time.sleep(0.5)
     print()
+    
