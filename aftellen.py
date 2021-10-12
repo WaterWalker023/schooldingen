@@ -1,7 +1,7 @@
-g = 1000000
+g = 500000
 
 while g != 0:
     print(g)
-    g -= 1
+    g -= 5
 
 print("nonsens")
